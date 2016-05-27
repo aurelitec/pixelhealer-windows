@@ -13,9 +13,21 @@ certain period of time.
 
 ![PixelHealer Screenshot](https://cloud.githubusercontent.com/assets/19592808/15582858/b9babd06-237b-11e6-9fd2-96d2d1830b0c.png)
 
+## Quotes
+
+> "A kind of shock treatment for pixels" (Omicrono)
+
+> "No prior knowledge is required, PixelHealer performs its duty even without installation." (CHIP Verdict: Gut)
+
+> "An effective and money-saving solution for dead or stuck pixels on your computer screen." (Download3K: Excellent)
+
+> "It may be worth a shot considering that the only other options you have are to return the screen/buy a new one or to live with it." (Ghacks Technology News)
+
+[More Reviews](http://www.aurelitec.com/pixelhealer/reviews/)
+
 ## Download
 
-The latest stable version of PixelHealer can be downloaded from http://www.aurelitec.com/pixelhealer/download/. You can download the Installation package, or a fully portable edition that does not require installation.
+The latest stable version of PixelHealer can be downloaded from http://www.aurelitec.com/pixelhealer/download/. You can download the Installation package, or a fully portable edition that does not require installation. PixelHealer runs on Windows 10, 8, 7, Vista, and XP.
 
 ## Source Code
 
@@ -27,7 +39,7 @@ Contributions are welcome! For feature requests and bug reports please [submit a
 
 ## Sponsor
 
-PixelHealer (and all the Aurelitec free applications) are supported by [East-Tec](http://www.east-tec.com), the home of [east-tec Eraser](http://www.east-tec.com/eraser/), the privacy tool that quickly and securely covers your online and PC tracks.
+PixelHealer (and all Aurelitec free applications) are supported by [East-Tec](http://www.east-tec.com), the home of [east-tec Eraser](http://www.east-tec.com/eraser/), the privacy tool that quickly and securely covers your online and PC tracks.
 
 ## License
 
