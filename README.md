@@ -13,6 +13,22 @@ certain period of time.
 
 ![PixelHealer Screenshot](https://cloud.githubusercontent.com/assets/19592808/15582858/b9babd06-237b-11e6-9fd2-96d2d1830b0c.png)
 
+## Download
+
+The latest stable version of PixelHealer can be downloaded from http://www.aurelitec.com/pixelhealer/download/. You can download the Installation package, or a fully portable edition that does not require installation.
+
+## Source Code
+
+PixelHealer is written in C# using Windows Forms and .NET Framework 2.0. The project is developed using Visual Studio Community 2015, with the help of [StyleCop.Analyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers).
+
+## Contributions
+
+Contributions are welcome! For feature requests and bug reports please [submit an issue](https://github.com/aurelitec/PixelHealer/issues).
+
+## Sponsor
+
+PixelHealer (and all the Aurelitec free applications) are supported by [East-Tec](http://www.east-tec.com), the home of [east-tec Eraser](http://www.east-tec.com/eraser/), the privacy tool that quickly and securely covers your online and PC tracks.
+
 ## License
 
 PixelHealer is licensed under the [MIT license](LICENSE).
