@@ -11,7 +11,7 @@ PixelHealer has an intuitive interface and it is very easy to use. Use the mouse
 Open the intuitive Settings window to change the flashing colors, the flashing interval, or to automatically close the app after a
 certain period of time.
 
-![PixelHealer Screenshot](https://cloud.githubusercontent.com/assets/19592808/15582858/b9babd06-237b-11e6-9fd2-96d2d1830b0c.png)
+![PixelHealer Screenshot](Assets/Screenshots/pixelhealer-main-screenshot.png)
 
 ## Quotes
 
