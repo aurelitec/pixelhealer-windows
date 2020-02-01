@@ -23,11 +23,11 @@ certain period of time.
 
 > "It may be worth a shot considering that the only other options you have are to return the screen/buy a new one or to live with it." (Ghacks Technology News)
 
-[More Reviews](https://www.aurelitec.com/pixelhealer/reviews/)
+[More Reviews](https://www.aurelitec.com/pixelhealer/windows/reviews/)
 
 ## Download
 
-The latest stable version of PixelHealer can be downloaded from https://www.aurelitec.com/pixelhealer/download/. You can download the Installation package, or a fully portable edition that does not require installation. PixelHealer runs on Windows 10, 8, 7, Vista, and XP.
+The latest stable version of PixelHealer can be downloaded from [Aurelitec](https://www.aurelitec.com/pixelhealer/windows/download/). You can download the Installation package, or a fully portable edition that does not require installation. PixelHealer runs on Windows 10, 8, 7, Vista, and XP.
 
 ## Source Code
 
